@@ -1,0 +1,23 @@
+.head{
+  background-image: url(../images/background.png);
+  width: 1440px;
+  height: 818px;
+}
+
+p {
+  font-weight: 400;
+}
+.container {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.partfiveimg {
+  margin-top: 90px;
+  height: 65%;
+  width: 90%;
+}
+
+.partfive {
+  background-color: #26335D;
+}
